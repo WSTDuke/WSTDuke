@@ -42,7 +42,7 @@ I am a passionate **Front-end Developer** who enjoys building clean, scalable an
 **Language:** ENG
 
 🔗 [Repository](https://github.com/dukeWst/HyperX) _(Public)_
-🔗 [Demo](https://hyperxs.netlify.app/community)
+🔗 [Demo](https://hyperx-project.netlify.app/)
 
 
 ### 🚚 GoTrans – A platform for fast and reliable delivery & moving services.
@@ -55,11 +55,11 @@ I am a passionate **Front-end Developer** who enjoys building clean, scalable an
 
 Role: Customer
 🔗 [Repository](https://github.com/dukeWst/GoTrans) _(Public)_
-🔗 [Demo](https://gotrans-express.netlify.app/)
+🔗 [Demo](https://gotrans-project.netlify.app/)
 
 Role: Driver
 🔗 [Repository](https://github.com/dukeWst/GoTrans-Driver) _(Public)_
-🔗 [Demo](https://gotrans-drivers.netlify.app/)
+🔗 [Demo](https://gotransdriver-project.netlify.app/)
 
 ---
 
